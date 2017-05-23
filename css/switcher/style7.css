@@ -1,0 +1,56 @@
+body::-webkit-scrollbar-thumb,
+.load hr,
+.bg-primary,
+.btn-primary:after,
+.icon-primary,
+.marked-list span:after,
+.divider,
+.img-container:after,
+.link-block:after,
+.caption-wrap .caption,
+.pricing-box-head,
+.contact-data,
+.owl-controls .owl-dot.active,
+.owl-custom-nav:after,
+.toTopButton,
+#style-switcher .toggle-switcher,
+.progress-wrapper .progress .progress-bar,
+.iso .button:after {
+  background: #00d8ff;
+}
+
+a:hover,
+a:focus,
+h1 a:focus, h1 a:hover, h2 a:focus, h2 a:hover, h3 a:focus, h3 a:hover, h4 a:focus, h4 a:hover, h5 a:focus, h5 a:hover, h6 a:focus, h6 a:hover, .h1 a:focus, .h1 a:hover, .h2 a:focus, .h2 a:hover, .h3 a:focus, .h3 a:hover, .h4 a:focus, .h4 a:hover, .h5 a:focus, .h5 a:hover, .h6 a:focus, .h6 a:hover,
+html body .text-primary,
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:focus:hover,
+.btn-default:active,
+.btn-primary:focus,
+.btn-primary:focus:hover,
+.btn-primary:active,
+.list-inline .icon,
+.list-inline .icon:hover,
+.index-list article .index-list-counter,
+.img-container .img-panel .icon:hover,
+.link-block a:hover,
+.fixed-btns a,
+blockquote .icon,
+.blog-post .post-data > * .icon,
+.video-wrap .btn-play,
+html body .k-nav-links li.active a,
+html body .k-nav-links a:hover,
+body.dark .main-footer .list-inline .icon:hover,
+.owl-custom-nav a {
+  color: #00d8ff;
+}
+
+.btn-default:after,
+.btn-primary,
+.btn-primary:hover,
+.text-marked,
+.owl-controls .owl-dot,
+.contact-form .form-control:hover {
+  border-color: #00d8ff;
+}

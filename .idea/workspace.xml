@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da1ac471-23d4-4704-b6c1-e09c53bdf2a3" name="Default" comment="" />
+    <list default="true" id="da1ac471-23d4-4704-b6c1-e09c53bdf2a3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,7 +42,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>contact me</find>
+      <find />
       <find>one</find>
       <find>Mock</find>
     </findStrings>
@@ -65,9 +67,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="113" />
+    <option name="x" value="9" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="639" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -177,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524559800993</updated>
-      <workItem from="1524559806363" duration="4848000" />
+      <workItem from="1524559806363" duration="5622000" />
     </task>
     <task id="LOCAL-00001" summary="Finished all the updates">
       <created>1524565769160</created>
@@ -186,14 +189,28 @@
       <option name="project" value="LOCAL" />
       <updated>1524565769160</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished all the updates.">
+      <created>1524565863467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524565863467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished all the updates.">
+      <created>1524565879943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524565879943</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4848000" />
+    <option name="totallyTimeSpent" value="5622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="113" width="1440" height="639" extended-state="0" />
+    <frame x="0" y="113" width="1440" height="724" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -232,8 +249,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Finished all the updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished all the updates" />
+    <MESSAGE value="Finished all the updates." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished all the updates." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/portfolio-images/1.png">
